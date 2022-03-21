@@ -2,7 +2,7 @@
 A new social network site has the following data tables:
 
 ----------------------
-|		users		 |
+|       users	     |
 ----------------------
 | id |  name  | sex  |
 ----------------------
@@ -13,7 +13,7 @@ A new social network site has the following data tables:
 ----------------------
 
 ----------------------
-|		friends		 |
+|       friends	     |
 ----------------------
 |   user1  |  user2  |
 ----------------------
